@@ -1,0 +1,12 @@
+{
+  ".txt": "images/txt_file.png",
+  ".rar": "images/archive.png",
+  ".zip": "images/archive.png",
+  ".7z": "images/archive.png",
+  ".pptx": "images/pptx_file.png",
+  ".rtf": "images/rtf_file.png",
+  ".xlsx": "images/xlsx_file.png",
+  ".docx": "images/docx_file.png",
+  "": "images/folder.png",
+  "?": "images/file.png"
+}
